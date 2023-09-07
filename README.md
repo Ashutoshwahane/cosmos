@@ -14,7 +14,7 @@
 Used Jetbrain multiplatform template to create the project [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform#readme).
 
 
-![](readme_images/planet_logo.svg)
+![](readme_images/logo_screenshot.png)
 
 <img src="readme_img/screenshotAndroid1.png" height="300px">
 <img src="readme_img/screenshotAndroid2.png" height="300px">
