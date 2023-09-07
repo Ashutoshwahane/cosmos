@@ -2,7 +2,7 @@
 
 # [COSMOS](https://github.com/Ashutoshwahane/cosmos) is a space science app Built using [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
 
-
+![](readme_images/logo_screenshot.png)
 
 ## Purpose
 * To Explore Kotlin Multiplatform.
@@ -12,9 +12,6 @@
 * If you have any issues, please report them on [GitHub](https://github.com/Ashutoshwahane/cosmos/issues).
 
 Used Jetbrain multiplatform template to create the project [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform#readme).
-
-
-![](readme_images/logo_screenshot.png)
 
 <img src="readme_img/screenshotAndroid1.png" height="300px">
 <img src="readme_img/screenshotAndroid2.png" height="300px">
