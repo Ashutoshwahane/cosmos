@@ -7,7 +7,13 @@ plugins {
 }
 
 kotlin {
-    androidTarget()
+    androidTarget() {
+        compilations.all {
+            kotlinOptions {
+                jvmTarget = "11"
+            }
+        }
+    }
 
     listOf(
         iosX64(),
@@ -75,7 +81,7 @@ kotlin {
 
 android {
     compileSdk = (findProperty("android.compileSdk") as String).toInt()
-    namespace = "com.myapplication.common"
+    namespace = "com.ashutoshwahane.common"
 
     sourceSets["main"].manifest.srcFile("src/androidMain/AndroidManifest.xml")
     sourceSets["main"].res.srcDirs("src/androidMain/res")
