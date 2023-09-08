@@ -1,4 +1,4 @@
-
+![](/readme_img/Cosmos.png)
 
 # [COSMOS](https://github.com/Ashutoshwahane/cosmos) is a space science app Built using [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
 
@@ -11,10 +11,14 @@
 * Community and Industry Trends -> Kotlin Multiplatform is gaining traction in the industry, and as more companies adopt it, having knowledge in this area can make you a more attractive candidate for job opportunities
 * If you have any issues, please report them on [GitHub](https://github.com/Ashutoshwahane/cosmos/issues).
 
-Used Jetbrain multiplatform template to create the project [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform#readme).
 
-## Android
-<img src="readme_img/screenshotAndroid1.png" height="300px">
 
-## IOS
-<img src="readme_img/screenshotIos1.png" height="300px">
+## Built with 
+
+- [Kotlin](kotlinlang.org): Programming language
+- [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html): For building multi-platform applications in the single codebase.
+- Used Jetbrain multiplatform template to create the project [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform#readme).
+  - [Coroutines](https://github.com/Kotlin/kotlinx.coroutines): For multithreading
+  - [Serialization](https://github.com/Kotlin/kotlinx.serialization): For JSON serialization/deserailization
+- [Ktor Client](https://github.com/ktorio/ktor): Performing HTTP requests, Creating image loading utility for iOS module.
+- [Coil](https://github.com/coil-kt/coil): Image loading for Android
