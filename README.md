@@ -9,7 +9,7 @@
 * Code Reusability -> Kotlin Multiplatform is the ability to write shared code that can be used across different platforms, such as Android, iOS, and even web applications.
 * Faster Development -> With code sharing, you can iterate faster and release updates more quickly for multiple platforms. This can be especially useful if you're working on a product that needs to be available on both Android and iOS.
 * Community and Industry Trends -> Kotlin Multiplatform is gaining traction in the industry, and as more companies adopt it, having knowledge in this area can make you a more attractive candidate for job opportunities
-* If you have any issues, please report them on [GitHub](https://github.com/Ashutoshwahane/cosmos/issues).
+
 
 
 
@@ -22,3 +22,5 @@
   - [Serialization](https://github.com/Kotlin/kotlinx.serialization): For JSON serialization/deserailization
 - [Ktor Client](https://github.com/ktorio/ktor): Performing HTTP requests, Creating image loading utility for iOS module.
 - [Coil](https://github.com/coil-kt/coil): Image loading for Android
+
+* Found issues, please report them on [GitHub](https://github.com/Ashutoshwahane/cosmos/issues).
