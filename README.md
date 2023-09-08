@@ -13,5 +13,8 @@
 
 Used Jetbrain multiplatform template to create the project [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform#readme).
 
+## Android
 <img src="readme_img/screenshotAndroid1.png" height="300px">
-<img src="readme_img/screenshotAndroid2.png" height="300px">
+
+## IOS
+<img src="readme_img/screenshotIos1.png" height="300px">
