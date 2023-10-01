@@ -32,3 +32,8 @@ API_KEY = "<insert>"
 - [Coil](https://github.com/coil-kt/coil): Image loading for Android
 
 * Found issues, please report them on [GitHub](https://github.com/Ashutoshwahane/cosmos/issues).
+
+
+## Contribute
+If you want to contribute to this library, you're always welcome!
+See [Contributing Guidelines](CONTRIBUTING.md). 
