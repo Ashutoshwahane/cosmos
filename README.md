@@ -10,7 +10,15 @@
 * Faster Development -> With code sharing, you can iterate faster and release updates more quickly for multiple platforms. This can be especially useful if you're working on a product that needs to be available on both Android and iOS.
 * Community and Industry Trends -> Kotlin Multiplatform is gaining traction in the industry, and as more companies adopt it, having knowledge in this area can make you a more attractive candidate for job opportunities
 
+### Environment setup
 
+You need to supply keys for Nasa API. You can find information about how to gain access by using the [link](https://api.nasa.gov/).
+
+When you obtain the keys, you can provide them to the app by putting the following in the `local.properties` project root file:
+```properties
+#Nasa API KEYS
+API_KEY = "<insert>"
+```
 
 
 ## Built with 
